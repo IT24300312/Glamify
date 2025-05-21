@@ -1,4 +1,4 @@
-package com.glamify.app.service;
+ package com.glamify.app.service;
 
 import java.lang.reflect.Type;
 import java.util.List;
